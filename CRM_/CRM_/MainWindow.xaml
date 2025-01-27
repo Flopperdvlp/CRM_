@@ -1,0 +1,15 @@
+﻿<Window x:Class="CRM_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRM_"
+        mc:Ignorable="d"
+        ThemeMode="Dark"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TB1" HorizontalAlignment="Center" Margin="0,153,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" Width="184" Height="19"/>
+        <TextBox x:Name="TB2" HorizontalAlignment="Center" Margin="0,198,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="184" Height="19"/>
+        <Button Content="LogIn" Click="LogIn" HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top" Width="184"/>
+    </Grid>
+</Window>

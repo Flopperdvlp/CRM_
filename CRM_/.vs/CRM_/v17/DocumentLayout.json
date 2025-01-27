@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Masha\\source\\repos\\CRM_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA45413-B5FD-4AAA-AA34-95CD60955FB7}|CRM_\\CRM_.csproj|c:\\users\\masha\\source\\repos\\crm_\\crm_\\controller\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA45413-B5FD-4AAA-AA34-95CD60955FB7}|CRM_\\CRM_.csproj|solutionrelative:crm_\\controller\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA45413-B5FD-4AAA-AA34-95CD60955FB7}|CRM_\\CRM_.csproj|c:\\users\\masha\\source\\repos\\crm_\\crm_\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA45413-B5FD-4AAA-AA34-95CD60955FB7}|CRM_\\CRM_.csproj|solutionrelative:crm_\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA45413-B5FD-4AAA-AA34-95CD60955FB7}|CRM_\\CRM_.csproj|c:\\users\\masha\\source\\repos\\crm_\\crm_\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BA45413-B5FD-4AAA-AA34-95CD60955FB7}|CRM_\\CRM_.csproj|solutionrelative:crm_\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Masha\\source\\repos\\CRM_\\CRM_\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CRM_\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Masha\\source\\repos\\CRM_\\CRM_\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CRM_\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:30:58.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\Masha\\source\\repos\\CRM_\\CRM_\\Controller\\LogIn.cs",
+              "RelativeDocumentMoniker": "CRM_\\Controller\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Masha\\source\\repos\\CRM_\\CRM_\\Controller\\LogIn.cs",
+              "RelativeToolTip": "CRM_\\Controller\\LogIn.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:32:20.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Masha\\source\\repos\\CRM_\\CRM_\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CRM_\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Masha\\source\\repos\\CRM_\\CRM_\\MainWindow.xaml",
+              "RelativeToolTip": "CRM_\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T17:31:04.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
