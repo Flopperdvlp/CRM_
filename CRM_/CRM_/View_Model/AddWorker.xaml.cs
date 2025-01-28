@@ -16,16 +16,19 @@ namespace CRM_.View_Model
 {
     public partial class AddWorker : Window
     {
-        public AddWorker()
+        private Controller.MainWindowController controller;
+        public AddWorker(Controller.MainWindowController controller)
         {
             InitializeComponent();
+            this.controller = controller;
         }
-        public void Add_Worker(object sender, EventArgs e)
+        public void Add_Worker_(object sender, EventArgs e)
         {
             string text1 = TB1.Text;
             string text2 = TB2.Text;
             string text3 = TB3.Text;
             string text4 = TB4.Text;
+            controller.Add_Worker(text1, text2, text3, text4);
         }
     }
 }

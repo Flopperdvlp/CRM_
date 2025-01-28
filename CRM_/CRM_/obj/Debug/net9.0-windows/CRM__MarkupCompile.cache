@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Users\Masha\source\repos\CRM_\CRM_\App.xaml
-2633891558
+3707216804
 
-6-936371069
+8-117336187
 200161758370
-MainWindow.xaml;View\Main.xaml;
+MainWindow.xaml;View_Model\AddWorker.xaml;View_Model\Main.xaml;
 
 False
 

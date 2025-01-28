@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CRM_.View"
         mc:Ignorable="d"
-        ThemeMode="Dark"
         Title="Main" Height="450" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
@@ -17,9 +16,7 @@
             <Button Content="Workers list" Margin="5" Click="Workers_list"/>
             <Button Content="Company" Margin="5" Click="Compnay"/>
             <Button Content="Businesses" Margin="5" Click="Businesses"/>
-            <StackPanel>
-            </StackPanel>
         </StackPanel>
-        <TreeView x:Name="DirectoryTree" Grid.Column="1" Margin="10" Background="White" BorderBrush="LightGray" BorderThickness="1"/>
+        <TreeView x:Name="UsersTreeView" Grid.Column="1" Margin="10" Background="White" BorderBrush="LightGray" BorderThickness="1"/>
     </Grid>
 </Window>

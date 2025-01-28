@@ -8,8 +8,8 @@
         ThemeMode="Dark"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="TB1" HorizontalAlignment="Center" Margin="0,153,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" Width="184" Height="19"/>
-        <TextBox x:Name="TB2" HorizontalAlignment="Center" Margin="0,198,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="184" Height="19"/>
+        <TextBox x:Name="TB1" HorizontalAlignment="Center" Margin="0,153,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" Width="184" Height="32"/>
+        <TextBox x:Name="TB2" HorizontalAlignment="Center" Margin="0,198,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="184" Height="33"/>
         <Button Content="LogIn" Click="LogIn" HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top" Width="184"/>
     </Grid>
 </Window>

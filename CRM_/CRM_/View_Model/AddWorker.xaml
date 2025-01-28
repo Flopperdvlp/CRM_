@@ -8,18 +8,18 @@
         Title="AddWorker" Height="450" Width="800">
     <Grid>
         <Label Content="Add worker" HorizontalAlignment="Left" Margin="281,37,0,0" VerticalAlignment="Top" Width="284"/>
-        
-        <Label Content="Name: " HorizontalAlignment="Left" Margin="214,84,0,0" VerticalAlignment="Top" Width="62"/>
-        <TextBox TextWrapping="Wrap" x:Name="TB1"  Text="" Margin="281,84,302,324"/>
+
+        <Label Content="Name: " HorizontalAlignment="Left" Margin="214,71,0,0" VerticalAlignment="Top" Width="62"/>
+        <TextBox TextWrapping="Wrap" x:Name="TB1"  Text="" Margin="281,71,302,324"/>
 
         <Label Content="Surname: " HorizontalAlignment="Left" Margin="214,115,0,0" VerticalAlignment="Top" Width="62"/>
-        <TextBox TextWrapping="Wrap" x:Name="TB2" Text="" Margin="281,115,302,293"/>
+        <TextBox TextWrapping="Wrap" x:Name="TB2" Text="" Margin="281,115,302,279"/>
 
-        <Label Content="Post: " HorizontalAlignment="Left" Margin="214,146,0,0" VerticalAlignment="Top" Width="62"/>
-        <TextBox TextWrapping="Wrap" x:Name="TB3" Text="" Margin="281,146,302,262"/>
+        <Label Content="Post: " HorizontalAlignment="Left" Margin="214,160,0,0" VerticalAlignment="Top" Width="62"/>
+        <TextBox TextWrapping="Wrap" x:Name="TB3" Text="" Margin="281,160,302,235"/>
 
-        <Label Content="Phone: " HorizontalAlignment="Left" Margin="214,177,0,0" VerticalAlignment="Top" Width="62"/>
-        <TextBox TextWrapping="Wrap" x:Name="TB4" Text="" Margin="281,177,302,231"/>
-        <Button Content="Add worker" Click="Add_Worker" HorizontalAlignment="Left" Margin="281,250,0,0" VerticalAlignment="Top" Width="217"/>
+        <Label Content="Phone: " HorizontalAlignment="Left" Margin="214,0,0,0" VerticalAlignment="Center" Width="62"/>
+        <TextBox TextWrapping="Wrap" x:Name="TB4" Text="" Margin="281,204,302,191"/>
+        <Button Content="Add worker" Click="Add_Worker_" HorizontalAlignment="Left" Margin="281,263,0,0" VerticalAlignment="Top" Width="217"/>
     </Grid>
 </Window>
